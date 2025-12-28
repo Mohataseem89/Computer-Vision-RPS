@@ -1,4 +1,4 @@
-# Rock Paper Scissors — Hand Gesture AI Game
+# Computer Vision - Hand Gesture AI Game
 
 An interactive **Rock–Paper–Scissors game** built using **Computer Vision** and **Hand Gesture Recognition**.  
 The player’s move is detected in real time using a webcam, while an AI opponent plays against you.
@@ -58,7 +58,7 @@ Rock_Paper_Scissor/
 ---
 
 ## Installation & Setup
-# Note:
+## Note:
 Please use Python 3.10.x for best compatibility with MediaPipe.
 ```bash
 git clone https://github.com/Mohataseem89/Computer-Vision-RPS.git
@@ -68,6 +68,19 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 ```
+
+
+## Courtesy
+Project inspired by learning from Murtaza Hassan: [Github](https://github.com/murtazahassan)
+
+
+
+
+## 🧑‍💻 Author
+
+**Mohataseem Khan**
+📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
+
 
 
 
