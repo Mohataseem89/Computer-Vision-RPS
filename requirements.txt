@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+cvzone
+numpy
+Python 3.10.x
+opencv-python>=4.8
+mediapipe>=0.10
+cvzone>=1.6
+numpy>=1.23
