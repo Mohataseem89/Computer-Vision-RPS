@@ -29,7 +29,7 @@ This project uses **OpenCV**, **MediaPipe**, and **CVZone** to create a fun, res
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.10**
 - **OpenCV**
@@ -76,10 +76,10 @@ Project inspired by learning from Murtaza Hassan: [Github](https://github.com/mu
 
 
 
-## 🧑‍💻 Author
+##  Author
 
 **Mohataseem Khan**
-📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
+ Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
 
 
 
