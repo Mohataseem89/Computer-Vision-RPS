@@ -79,13 +79,14 @@ python main.py
 
 This project was inspired by the educational content of **Murtaza Hassan** and the Computer Vision community.
 
-GitHub: https://github.com/murtazahassan
+[GitHub](https://github.com/murtazahassan)
 
 ---
 
 ##  Author
 
 **Mohataseem Khan**
+ Connect with me: [LinkedIn](https://www.linkedin.com/in/mohataseem-khan/) • [GitHub](https://github.com/Mohataseem89)
 
-* LinkedIn: https://www.linkedin.com/in/mohataseem-khan/
-* GitHub: https://github.com/Mohataseem89
+
+
